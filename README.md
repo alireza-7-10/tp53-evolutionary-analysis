@@ -30,9 +30,9 @@ The TP53 gene, encoding the p53 protein, is known as the "Guardian of the Genome
 - **Selection Analysis:** Out of 389 non-invariant codon sites, 12 sites were under purifying selection and 4 sites (codons 14, 174, 318, 380) showed evidence of positive/diversifying selection at p ≤ 0.05.
 
 ## Repository Structure
-- `data/`: NCBI accession numbers of the retrieved CDS sequences.
-- `results/`: Output files including the genetic distance matrix, phylogenetic tree image, and FEL analysis plot.
-- `docs/`: Full project report and methodology details.
+- `data/`: NCBI accession numbers and raw sequence information.
+- `results/`: Output files including genetic distance matrix, phylogenetic tree, and FEL analysis plot.
+- `docs/`: Full project report in Markdown format.
 
 ## Tools Used
 - MEGA 12
