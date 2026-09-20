@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it as below."
+authors:
+  - family-names: Safari
+    given-names: Alireza
+    affiliation: Ferdowsi University of Mashhad
+title: "Tracing the Pattern of Positive Selection and Structural Conservation in the Genome Guardian Gene (TP53) during Vertebrate Evolution"
+year: 2026
+version: 1.0.0
+doi: "10.5281/zenodo.22855088"
+url: "https://github.com/alireza-7-10/tp53-evolutionary-analysis"
