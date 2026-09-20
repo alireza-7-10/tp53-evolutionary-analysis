@@ -1,0 +1,17 @@
+Codon,Alpha_Synonymous,Beta_Nonsynonymous,p_value,Selection_Type
+3,3.427,0.142,0.0467,Purifying
+14,0.000,0.220,0.0462,Diversifying
+22,1.085,0.105,0.0283,Purifying
+46,405.238,0.305,0.0417,Purifying
+64,129.865,0.181,0.0393,Purifying
+75,390.662,0.328,0.0155,Purifying
+142,215.129,0.376,0.0272,Purifying
+174,0.000,0.756,0.0443,Diversifying
+184,1140.104,1.396,0.0449,Purifying
+193,10000.000,0.562,0.0235,Purifying
+194,3.078,0.102,0.0173,Purifying
+252,46.348,0.253,0.0205,Purifying
+318,0.000,1.192,0.0372,Diversifying
+370,5.851,0.134,0.0389,Purifying
+375,10000.000,0.687,0.0477,Purifying
+380,0.000,1.191,0.0185,Diversifying
