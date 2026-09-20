@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22855088.svg)](https://doi.org/10.5281/zenodo.22855088)
+
 # Tracing the Pattern of Positive Selection and Structural Conservation in the Genome Guardian Gene (TP53) during Vertebrate Evolution
 
 This repository contains the data, analysis settings, and results for an in-silico evolutionary study of the TP53 gene across seven vertebrate species.
